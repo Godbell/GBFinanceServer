@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Index
 {
 
-	@RequestMapping("/")
+	@RequestMapping("/hello")
 	public String index()
 	{
 		return "Hello World!";
