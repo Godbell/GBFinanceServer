@@ -31,8 +31,10 @@
 ## Roadmap 
 
 - [x] Spring Boot 개발 세팅
-- [ ] React 개발 세팅
-- [ ] OpenAPI와 연동 
+- [x] React 개발 세팅
+- [ ] 계좌 잔액 조회 기능 개발
+- [ ] 거래내역 조회 기능 개발
+- [ ] 거래내역 카테고리화 기능 개발
 
 <!-- CONTACT -->
 ## Contact 
