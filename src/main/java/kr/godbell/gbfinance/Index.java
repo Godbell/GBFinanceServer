@@ -1,4 +1,4 @@
-package io.godbell.gbfinance;
+package kr.godbell.gbfinance;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
